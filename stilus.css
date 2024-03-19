@@ -1,0 +1,15 @@
+img{
+    width:100%;
+    border-radius: 15px;
+}
+#kutya{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#kutya>div{
+    border:1px solid black;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
